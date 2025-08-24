@@ -5,8 +5,6 @@
 ---
 #Live Demo
 https://peernotez.netlify.app/
-## Android App👇👇
-https://peernotez-apk.s3.us-east-1.amazonaws.com/peernotez(v-1.1..3).apk
 
 https://peernotez.netlify.app/about
 
@@ -24,6 +22,9 @@ https://peernotez.netlify.app/upload (Visible to logged-in users)
 https://peernotez.netlify.app/profile (Visible to logged-in users)
 
 https://peernotez.netlify.app/admin
+---
+## Android App👇👇
+https://peernotez-apk.s3.us-east-1.amazonaws.com/peernotez(v-1.1..3).apk
 ## 🚀 Features
 
 - 📝 Upload notes in multiple formats (PDF, DOCX, PPTX, PNG)
