@@ -188,7 +188,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Aditya Choudhary** - Founder & Developer
 
-* **Email:** adityanain552@gmail.com
+* **Email:** aadiwrld01@gmail.com
 * **GitHub:** [AdityaChoudhary01](https://www.google.com/search?q=https://github.com/AdityaChoudhary01)
 * **Project Link:** [https://github.com/AdityaChoudhary01/PeerNotez](https://www.google.com/search?q=https://github.com/AdityaChoudhary01/PeerNotez)
 
