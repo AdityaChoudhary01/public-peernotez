@@ -1,6 +1,3 @@
-Here is the complete, formatted `README.md` file in Markdown. You can copy the code block below directly into your project.
-
-```markdown
 # 📚 PeerNotez
 
 **PeerNotez** is a modern, full-stack web application designed for students to **upload, share, and discover academic notes** seamlessly. From PDFs and DOCX files to PPTX and images, PeerNotez provides a centralized hub for academic collaboration. Built with the **MERN stack** (MongoDB, Express, React, Node.js), it offers a responsive, secure, and user-friendly experience across all devices.
